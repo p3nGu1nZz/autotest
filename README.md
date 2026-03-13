@@ -1,5 +1,5 @@
 
-# autotest: Autonomous Test Agents
+# autotest
 
 Autotest is an experiment in building self-improving AI agents that autonomously generate, maintain, and optimize unit tests for codebases. Inspired by the vision of fully automated research and development, autotest agents operate in iterative loops, continuously analyzing code, running tests, and evolving the test suite without human intervention.
 
